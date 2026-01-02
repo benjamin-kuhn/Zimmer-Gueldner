@@ -151,7 +151,7 @@ nav a:hover {
   .rechtliches {
     display: flex;
     gap: 1,4rem;
-    padding-top: 0rem;
+    padding-top: 0.8rem;
   }
   .rechtliches p {
     font-size: 0.9rem;
